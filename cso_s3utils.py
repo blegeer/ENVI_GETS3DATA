@@ -1,11 +1,13 @@
 # CSO_S3Utils
 #
+# Beau Legeer - DigitalGlobe
 
 from boto.s3.connection import S3Connection
 import os
 
 def getS3FolderList(bucketName, folder, accessKey, secretKey):
 
+# get a list of "folders" within a key
 # folder must be in the form
 # key1/key2/
 # must have the leading slash and must be fully qualified
