@@ -32,3 +32,4 @@ This utility utilizes allows an AWS user to download data from S3 buckets onto a
 7. Restart ENVI
 8. Run the extension from the "Extensions" folder in the ENVI toolbox. 
 
+![Plugin Start](https://github.com/blegeer/ENVI_GETS3DATA/blob/master/ScreenShot1.png "Blank Startup")
